@@ -6,7 +6,7 @@ h1 {
 
 
 h1 {
-    color: #DD5555;
+    color: #556B2F;
     font-size: 22px;
 }
 h1, h2, h3 {
@@ -42,7 +42,7 @@ a {
 }
 
 a:hover {
-    color: #FF530D;
+    color: #556B2F;
     text-decoration: underline;
 }
 
@@ -79,7 +79,7 @@ div {
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 4px;
-    box-shadow: 0px 1px 2px 0px rgba(170, 170, 0, 0.2);
+    box-shadow: 2px 2px 3px 0px #556B2F;
 
 }
 .container {
