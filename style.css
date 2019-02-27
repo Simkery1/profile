@@ -83,7 +83,7 @@ div {
 
 }
 .container {
-    width: 500px;
+    width: 700px;
     margin: 30px auto;
 }
 .img-circle {
@@ -91,5 +91,7 @@ div {
 
 }
 
-
+#id {
+  text-align: left;
+}
 
